@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there, I'm Domas 👋  
 
-<!--
-**djanuskevicius/djanuskevicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Currently learning **JavaScript, React, and Next.js**  
+- Built my own slot machine game [Slot Machine (WIP)](https://djanuskevicius.github.io/slot-machine)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- Learning advanced React & TypeScript
+- Building personal projects and portfolio
+- Preparing for front-end roles and internships
+
+---
+
+### Tech Stack
+`HTML` • `CSS` • `JavaScript` • `React` • `Next.js` • `Tailwind` • `Git`
+
+---
+
+### Reach Me
+- [Email me](mailto:domas02911@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/domas-janu%C5%A1kevi%C4%8Dius-4a6033263/)
+
+---
+
+✨ *“Build something small, learn something big.”*
