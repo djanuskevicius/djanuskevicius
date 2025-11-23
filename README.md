@@ -1,7 +1,7 @@
 # Hey there, I'm Domas 👋  
 
 - Currently learning **JavaScript, React, and Next.js**  
-- Built my own slot machine game [Slot Machine (WIP)](https://djanuskevicius.github.io/slot-machine)  
+- My latest portfolio piece [closet-app](https://github.com/djanuskevicius/closet-app)
 
 ---
 
